@@ -1,2 +1,4 @@
-[context.production.environment] TZ = "Europe/Rome" 
-[build] publish = "public"
+[context.production.environment]
+TZ = "Europe/Rome" 
+[build]
+publish = "public"
